@@ -6,7 +6,7 @@ create a new repository
 
 First push to git
 
-touch README.md 
+touch README.md
 git init
 git add README.md
 git commit -m "first commit" (to commit locally)
@@ -19,3 +19,19 @@ git status
 git add file-name
 git commit -m "change I made"
 git push
+
+Branching
+
+There are master branch with both local and remote(origin).
+
+If I add something or try something different than the main branch, make branch and try on there.
+That way, if I don't need it, I can erase the branch and keep the main branch as it was.
+
+$ git branch
+and I see * master
+
+* means the current branch you are working on
+
+$ git checkout -b sample (to create a new branch)
+
+$ git checkout master(to get back to main branch. master branch already exist, I don't need -b)
