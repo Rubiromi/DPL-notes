@@ -35,3 +35,6 @@ and I see * master
 $ git checkout -b sample (to create a new branch)
 
 $ git checkout master(to get back to main branch. master branch already exist, I don't need -b)
+
+to push update to new branch:
+$ git push origin sample
