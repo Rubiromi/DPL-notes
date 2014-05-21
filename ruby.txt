@@ -1,0 +1,23 @@
+Ruby
+
+string is a data
+each data type already know its predefined method
+
+string
+Fixnum
+Float
+
+to know the data type “Hiromi”.class = string, 5.class = fixnum, etc.
+
+“something” + “ else” = “something else” <=concatenation
+
+container to keep some type of data = variable
+
+exit = to get out from rib
+
+Variable Rules
+All Lowercase
+Begin with a letter
+separate words with _
+
+age = gets.chomp (getting information from user)
