@@ -1,4 +1,4 @@
-Ruby
+Ruby note
 
 string is a data
 each data type already know its predefined method
